@@ -1,0 +1,116 @@
+{
+  "Istanbul": {
+    "Properties": {
+      "beginningDate": "01/01/2024",
+      "endDate": "01/02/2024",
+      "price": "100",
+      "name": "Istanbul",
+      "description": "Istanbul,a city where East meets West and blending rich history. ",
+      "time": "20.00"
+    },
+    "TravelPack1": {
+      "price": "35",
+      "activities": "Dolmabahce Palace, Topkapi Palace, Sultanahmet Mosque",
+      "name": "Cultural",
+      "description": "Explore Istanbul's iconic landmarks: Dolmabahce Palace, Topkapi Palace, and Sultanahmet Mosque, each rich in history and architectural splendor.",
+      "locations": "Besiktas, Fatih and Sirkeci"
+    },
+    "TravelPack2": {
+      "price": "50",
+      "activities": "Bosphorus Tour and Grand Bazaar Tour",
+      "name": "Tour",
+      "description": "Experience Istanbul's highlights: Bosphorus Tour offers scenic views, while Grand Bazaar Tour immerses you in vibrant markets.",
+      "locations": "Bosphorus and Beyazit"
+    },
+    "TravelPack3": {
+      "price": "10",
+      "activities": "Fish Sandwich and Turkish Delight Tasting",
+      "name": "Food",
+      "description": "Experience the savory delight of Fish Sandwich and the sweet indulgence of Turkish Delight, a culinary journey through Istanbul's flavors.",
+      "locations": "Eminonu and Karakoy"
+    },
+    "TravelPack4": {
+      "price": "30",
+      "activities": "Football and Basketball Tickets",
+      "name": "Sport",
+      "description": "Watch an important football match between two big football clubs and an exciting basketball match between two big basketball clubs.",
+      "locations": "Kadikoy Sukru Saracoglu Stadium and Atasehir Ulker Arena"
+    }
+  },
+  "Berlin": {
+    "Properties": {
+      "beginningDate": "01/05/2024",
+      "endDate": "01/06/2024",
+      "price": "150",
+      "name": "Berlin",
+      "description": "Berlin, a city of contrasts, blending rich history and cultural scene.",
+      "time": "16.00"
+    },
+    "TravelPack1": {
+      "price": "40",
+      "activities": "Museum Tour and Historic District Walk",
+      "name": "Cultural",
+      "description": "Uncover the city's rich heritage: Museum Tour offers insights into artifacts, while Historic District Walk immerses you in the stories of its past.",
+      "locations": "Stuttgart and Berlin"
+    },
+    "TravelPack2": {
+      "price": "40",
+      "activities": "Berlin Wall and Checkpoint Charlie",
+      "name": "Historical",
+      "description": "Explore Berlin's vibrant history with our tour, including iconic landmarks like Berlin Wall at Checkpoint Charlie and uncovering tales of resilience and transformation.",
+      "locations": "Friedrichstraße in Berlin"
+    },
+    "TravelPack3": {
+      "price": "35",
+      "activities": "Berlin Cathedral and Kaiser Wilhelm Memorial Church",
+      "name": "Religion",
+      "description": "Marvel at Berlin's religious landmarks: Berlin Cathedral boasts architectural grandeur, while Kaiser Wilhelm Memorial Church exudes historical significance.",
+      "locations": "Berlin"
+    },
+    "TravelPack4": {
+      "price": "45",
+      "activities": "Football and Basketball Tickets",
+      "name": "Sport ",
+      "description": "Experience the excitement of Bayer Leverkusen's thrilling championship match in Leverkusen and Witness the electrifying EuroLeague Final at the iconic Mercedes Benz Arena in Berlin.",
+      "locations": "Leverkusen and Berlin"
+    }
+  },
+  "Tokyo": {
+    "Properties": {
+      "beginningDate": "01/03/2024",
+      "endDate": "01/04/2024",
+      "price": "130",
+      "name": "Tokyo",
+      "description": "Tokyo,where tradition and innovation intertwine,shaping a dynamic cityscape.",
+      "time": "10.00"
+    },
+    "TravelPack1": {
+      "price": "15",
+      "activities": "Tokyo Imperial Palace and Shrine Meiji",
+      "name": "Cultural",
+      "description": "Experience Tokyo's cultural treasures: Tokyo Imperial Palace reflects grandeur, while Meiji Shrine offers tranquility amidst urbanity.",
+      "locations": "Tokyo"
+    },
+    "TravelPack2": {
+      "price": "35",
+      "activities": "Museum Tour and Historic District Walk",
+      "name": "Historical",
+      "description": "Explore the city's heritage: Museum Tour delves into artifacts, while Historic District Walk unveils its rich past.",
+      "locations": "Tokyo"
+    },
+    "TravelPack3": {
+      "price": "75",
+      "activities": "Tokyo Drift and Go-Karting",
+      "name": "Car",
+      "description": "Feel the thrill: Tokyo Drift offers high-speed excitement, while Go-Karting lets you race through the vibrant streets.",
+      "locations": "Tokyo"
+    },
+    "TravelPack4": {
+      "price": "30",
+      "activities": "Sushi and Ramen Tasting",
+      "name": "Food ",
+      "description": "Delve into Japanese cuisine: Sushi tantalizes with its fresh flavors and delicate craftsmanship, while Ramen offers a comforting and flavorful experience, showcasing the diverse culinary landscape of Japan.",
+      "locations": "Tokyo"
+    }
+  }
+}
